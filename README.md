@@ -3,11 +3,9 @@ A dynamically generated website from a list of given movies using python.
 
 ## How to Run
 Execute the following command
+    source env/bin/activate
+    python app.py
 
-    python entertainment_center.py
-
-This will generate an html file called fresh_tomatoes.html and load it in the
-default browser
 
 ## Notes
 
