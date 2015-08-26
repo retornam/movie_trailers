@@ -68,10 +68,3 @@ if __name__ == '__main__':
   url = "http://127.0.0.1:{0}".format(port)
   threading.Timer(1.25, lambda: webbrowser.open(url) ).start()
   app.run(port=port, debug=True)
-
-
-for x in movie:
-  print x['mtitle']
-  print x['trailer_youtube_id']
-  print x['summary']
-  print x['poster_image_url']

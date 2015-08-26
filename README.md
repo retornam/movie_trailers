@@ -3,8 +3,9 @@ A dynamically generated website from a list of given movies using python.
 
 ## How to Run
 Execute the following command
-    source env/bin/activate
-    python app.py
+    ```source env/bin/activate```
+and then
+    ```python app.py```
 
 
 ## Notes
